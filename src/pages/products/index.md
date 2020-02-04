@@ -1,12 +1,11 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Tea
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great tea with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
+  YogiTea is the ultimate spot for tea lovers who want to learn about their
+  leaf’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
@@ -40,10 +39,10 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    YogiTea is the ultimate spot for tea lovers who want to learn about their
+    leaf’s origin and support the farmers that grew it. We take tea production,
+    roasting and brewing seriously and we’re glad to pass that knowledge to
+    anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
