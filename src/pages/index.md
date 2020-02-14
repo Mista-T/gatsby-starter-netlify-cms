@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great tea with a conscience
+title: Great tea with a conscience sdfsdsfdsf
 image: /img/home-jumbotron.jpg
-heading: Great tea with a conscience
+heading: Great tea with a conscience sdfsddsfdsffds
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why YogiTea
@@ -22,8 +22,8 @@ intro:
       text: >
         We sell green and roasted tea leafs that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of tea leafs grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
+        variety of tea leafs grown with great care for the environment and local
+        communities. Check our post or contact us directly for current
         availability.
     - image: /img/coffee-gear.png
       text: >
@@ -33,31 +33,31 @@ intro:
         to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of tea, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about tea brewing.
-        Email us or call the store for details.
+        Love a great cup of tea, but never knew how to make one? Bought a fancy
+        new Chemex but have no clue how to use it? Don't worry, we’re here to
+        help. You can schedule a custom 1-on-1 consultation with our baristas to
+        learn anything you want to know about tea brewing. Email us or call the
+        store for details.
     - image: /img/meeting-space.png
       text: >
-        We believe that good tea has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow tea lovers and learn about
-        tea making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that good tea has the power to bring people together. That’s
+        why we decided to turn a corner of our shop into a cozy meeting space
+        where you can hang out with fellow tea lovers and learn about tea making
+        techniques. All of the artwork on display there is for sale. The full
+        price you pay goes to the artist.
   heading: What we offer
   description: >
     YogiTea is the ultimate spot for tea lovers who want to learn about their
     leaf’s origin and support the farmers that grew it. We take tea production
-    and brewing seriously and we’re glad to pass that knowledge to
-    anyone. This is an edit via identity...
+    and brewing seriously and we’re glad to pass that knowledge to anyone. This
+    is an edit via identity...
 main:
   heading: Great tea with no compromises
   description: >
-    We hold our tea to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the tea’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our tea to the highest standards from the shrub to the cup. That’s
+    why we’re meticulous and transparent about each step of the tea’s journey.
+    We personally visit each farm to make sure the conditions are optimal for
+    the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground tea
     image: /img/products-grid3.jpg
